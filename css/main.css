@@ -206,27 +206,27 @@ body {
 }
 
 .animation::before {
-  content: url(/starter-code/assets/icon-animation.svg);
+  content: url(../assets/icon-animation.svg);
   display:block;
 }
 
 .design::before {
-  content: url(/starter-code/assets/icon-design.svg);
+  content: url(../assets/icon-design.svg);
   display:block;
 }
 
 .photography::before {
-  content: url(/starter-code/assets/icon-photography.svg);
+  content: url(../assets/icon-photography.svg);
   display:block;
 }
 
 .crypto::before {
-  content: url(/starter-code/assets/icon-crypto.svg);
+  content: url(../assets/icon-crypto.svg);
   display:block;
 }
 
 .business::before {
-  content: url(/starter-code/assets/icon-business.svg);
+  content: url(../assets/icon-business.svg);
   display:block;
 }
 
